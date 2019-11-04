@@ -1,0 +1,13 @@
+G:\Git\YFAspNetCore\YF.Data\bin\Debug\netcoreapp2.2\YF.Data.deps.json
+G:\Git\YFAspNetCore\YF.Data\bin\Debug\netcoreapp2.2\YF.Data.dll
+G:\Git\YFAspNetCore\YF.Data\bin\Debug\netcoreapp2.2\YF.Data.pdb
+G:\Git\YFAspNetCore\YF.Data\obj\Debug\netcoreapp2.2\YF.Data.AssemblyInfoInputs.cache
+G:\Git\YFAspNetCore\YF.Data\obj\Debug\netcoreapp2.2\YF.Data.AssemblyInfo.cs
+G:\Git\YFAspNetCore\YF.Data\obj\Debug\netcoreapp2.2\YF.Data.dll
+G:\Git\YFAspNetCore\YF.Data\obj\Debug\netcoreapp2.2\YF.Data.pdb
+G:\Git\YFAspNetCore\YF.Data\obj\Debug\netcoreapp2.2\YF.Data.csprojAssemblyReference.cache
+G:\Git\YFAspNetCore\YF.Data\bin\Debug\netcoreapp2.2\YF.Core.dll
+G:\Git\YFAspNetCore\YF.Data\bin\Debug\netcoreapp2.2\YF.Logs.dll
+G:\Git\YFAspNetCore\YF.Data\bin\Debug\netcoreapp2.2\YF.Core.pdb
+G:\Git\YFAspNetCore\YF.Data\bin\Debug\netcoreapp2.2\YF.Logs.pdb
+G:\Git\YFAspNetCore\YF.Data\obj\Debug\netcoreapp2.2\YF.Data.csproj.CopyComplete

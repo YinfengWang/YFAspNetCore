@@ -1,0 +1,11 @@
+G:\Git\YFAspNetCore\YF.Core\bin\Debug\netcoreapp2.2\YF.Core.deps.json
+G:\Git\YFAspNetCore\YF.Core\bin\Debug\netcoreapp2.2\YF.Core.dll
+G:\Git\YFAspNetCore\YF.Core\obj\Debug\netcoreapp2.2\YF.Core.AssemblyInfoInputs.cache
+G:\Git\YFAspNetCore\YF.Core\obj\Debug\netcoreapp2.2\YF.Core.AssemblyInfo.cs
+G:\Git\YFAspNetCore\YF.Core\obj\Debug\netcoreapp2.2\YF.Core.csprojAssemblyReference.cache
+G:\Git\YFAspNetCore\YF.Core\obj\Debug\netcoreapp2.2\YF.Core.Properties.LibraryResource.resources
+G:\Git\YFAspNetCore\YF.Core\obj\Debug\netcoreapp2.2\YF.Core.Properties.R.resources
+G:\Git\YFAspNetCore\YF.Core\obj\Debug\netcoreapp2.2\YF.Core.csproj.GenerateResource.cache
+G:\Git\YFAspNetCore\YF.Core\bin\Debug\netcoreapp2.2\YF.Core.pdb
+G:\Git\YFAspNetCore\YF.Core\obj\Debug\netcoreapp2.2\YF.Core.dll
+G:\Git\YFAspNetCore\YF.Core\obj\Debug\netcoreapp2.2\YF.Core.pdb

@@ -1,0 +1,13 @@
+G:\Git\YFAspNetCore\YF.Logs\obj\Debug\netcoreapp2.2\YF.Logs.Properties.LogResource.resources
+G:\Git\YFAspNetCore\YF.Logs\obj\Debug\netcoreapp2.2\YF.Logs.csproj.GenerateResource.cache
+G:\Git\YFAspNetCore\YF.Logs\obj\Debug\netcoreapp2.2\YF.Logs.AssemblyInfoInputs.cache
+G:\Git\YFAspNetCore\YF.Logs\obj\Debug\netcoreapp2.2\YF.Logs.AssemblyInfo.cs
+G:\Git\YFAspNetCore\YF.Logs\obj\Debug\netcoreapp2.2\YF.Logs.csprojAssemblyReference.cache
+G:\Git\YFAspNetCore\YF.Logs\bin\Debug\netcoreapp2.2\YF.Logs.deps.json
+G:\Git\YFAspNetCore\YF.Logs\bin\Debug\netcoreapp2.2\YF.Logs.dll
+G:\Git\YFAspNetCore\YF.Logs\bin\Debug\netcoreapp2.2\YF.Core.dll
+G:\Git\YFAspNetCore\YF.Logs\bin\Debug\netcoreapp2.2\YF.Core.pdb
+G:\Git\YFAspNetCore\YF.Logs\obj\Debug\netcoreapp2.2\YF.Logs.csproj.CopyComplete
+G:\Git\YFAspNetCore\YF.Logs\bin\Debug\netcoreapp2.2\YF.Logs.pdb
+G:\Git\YFAspNetCore\YF.Logs\obj\Debug\netcoreapp2.2\YF.Logs.dll
+G:\Git\YFAspNetCore\YF.Logs\obj\Debug\netcoreapp2.2\YF.Logs.pdb
